@@ -64,3 +64,49 @@ Github_Client/
     ├── ListRepositoriesExample.cs
     ├── CreateIssueExample.cs
     └── MCPIntegrationExample.cs
+
+## Dotnet Commands
+
+dotnet new console --force
+mkdir Models Services Core Examples
+dotnet add package Microsoft.Extensions.Http
+dotnet add package Microsoft.Extensions.Logging.Console --version 9.0.0-preview.3.*
+dotnet add package Polly --version 8.4.2
+dotnet add package System.Net.Http.Json --version 9.0.0
+dotnet add package Octokit (Optional)
+
+dotnet list package (Verify packages)
+
+export GITHUB_TOKEN="your_token_here" (Linux)
+$env:GITHUB_TOKEN="your_token_here" (Windows)
+
+# List your repos (and print to MCP logger)
+dotnet run -- list-repos
+
+# Create a new private repo
+dotnet run -- create-repo MyNewRepo true
+
+# Delete a repo
+dotnet run -- delete-repo your-gh-user MyNewRepo
+
+# List issues
+dotnet run -- issues your-gh-user some-repo
+
+# Create an issue
+dotnet run -- new-issue your-gh-user some-repo "Bug: login fails" "Steps to reproduce..."
+
+# List PRs
+dotnet run -- prs your-gh-user some-repo
+
+# Create a PR (source -> target)
+dotnet run -- new-pr your-gh-user some-repo feature/login main "Add login screen"
+
+# List workflows
+dotnet run -- workflows your-gh-user some-repo
+
+# Dispatch a workflow on branch 'main'
+dotnet run -- dispatch your-gh-user some-repo ci.yml main
+
+
+
+

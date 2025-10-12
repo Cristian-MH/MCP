@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vl65zW12/TA/E4v8We1GACpA1DAZOCEomuOr1hkhhz6ySz7tLOdO4EcsMoB70EcYkrdZO8I8EqxSyYWj4XZRw==",
+  "success": true,
+  "projectFilePath": "/media/cristian/Data/MCP/MCP/Github_Client/Github_Client.csproj",
+  "expectedPackageFiles": [
+    "/home/cristian/.nuget/packages/microsoft.extensions.configuration/9.0.9/microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.9/microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.configuration.binder/9.0.9/microsoft.extensions.configuration.binder.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.9/microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.9/microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.diagnostics/9.0.9/microsoft.extensions.diagnostics.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.diagnostics.abstractions/9.0.9/microsoft.extensions.diagnostics.abstractions.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.http/9.0.9/microsoft.extensions.http.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.logging/9.0.9/microsoft.extensions.logging.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.9/microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.logging.configuration/9.0.0/microsoft.extensions.logging.configuration.9.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.logging.console/9.0.0/microsoft.extensions.logging.console.9.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.options/9.0.9/microsoft.extensions.options.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.9/microsoft.extensions.options.configurationextensions.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/microsoft.extensions.primitives/9.0.9/microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/octokit/14.0.0/octokit.14.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/polly/8.4.2/polly.8.4.2.nupkg.sha512",
+    "/home/cristian/.nuget/packages/polly.core/8.4.2/polly.core.8.4.2.nupkg.sha512",
+    "/home/cristian/.nuget/packages/system.diagnostics.diagnosticsource/9.0.9/system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512",
+    "/home/cristian/.nuget/packages/system.io.pipelines/9.0.0/system.io.pipelines.9.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/system.net.http.json/9.0.0/system.net.http.json.9.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/system.text.encodings.web/9.0.0/system.text.encodings.web.9.0.0.nupkg.sha512",
+    "/home/cristian/.nuget/packages/system.text.json/9.0.0/system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
