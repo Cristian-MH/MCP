@@ -2,7 +2,7 @@
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet)](https://dotnet.microsoft.com/)
 [![Language](https://img.shields.io/badge/Language-C%23-blue)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/)
 
 ---
